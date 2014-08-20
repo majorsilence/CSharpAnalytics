@@ -2,6 +2,10 @@
 
 CSharpAnalytics is a free C# library for tracking application metrics via Google Analytics.
 
+## .NET 3.5 support
+https://www.nuget.org/packages/TaskParallelLibrary/1.0.2856 - .NET 3.5 back port of task parallel library.
+
+
 ## The pitch
 
 ### Why add metrics to your app?
